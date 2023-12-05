@@ -3,8 +3,6 @@ A sample application for [Clean Architecture: Patterns, Practices, and Principle
 
 This sample application is intended to be a learning tool for clean architecture practices. It incorporates several of these practices in a way that is simple and easy to understand.
 
-If you'd like to learn more about this style of software architecture, please check out my online course [Clean Architecture: Patterns, Practices, and Principles](https://pluralsight.pxf.io/clean-architecture).
-
 ## Technologies
 This demo application uses the following technologies:
  - .NET Core 6.0
